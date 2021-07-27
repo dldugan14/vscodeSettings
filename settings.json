@@ -1,0 +1,37 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+      },
+    "eslint.validate": ["javascript"],
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "git.autofetch": true,
+    "editor.rulers": [
+    100
+    ],
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#00FF00"
+    },
+    "editor.fontFamily": "JetBrains Mono",
+    "terminal.integrated.fontFamily": "monospace",
+    "window.zoomLevel": 0,
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "eslint.format.enable": true,
+    "eslint.run": "onSave",
+    "eslint.workingDirectories": [
+        "/Users/ddugan/Desktop/myphoenix-aem/ui.frontend/src/myphoenix"
+    ],
+    "eslint.alwaysShowStatus": true,
+    "java.project.importHint": false,
+    "yaml.schemas": {
+        "file:///Users/ddugan/.vscode/extensions/atlassian.atlascode-2.9.1/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "redhat.telemetry.enabled": true,
+}
